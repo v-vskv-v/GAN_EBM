@@ -28,12 +28,10 @@ An experiment with proposed model, comparison between true distribution and 1500
 Comparison between generated images by vanilla GAN generator and 500 steps of MCMC  applied to generator output with step size 2.
 
 Images by GAN generator.
-![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step38000.jpg "Vanilla GAN") ![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step35000.jpg "Vanilla GAN")
-![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step30000.jpg "Vanilla GAN")
-![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step36000.jpg "Vanilla GAN")
+![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step38000.jpg "Vanilla GAN") ![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step35000.jpg "Vanilla GAN") ![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step30000.jpg "Vanilla GAN")
 
 Images by proposed model generative model.
-![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step11000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step10000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step8000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step12000.jpg "Proposed model")  
+![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step11000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step10000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step8000.jpg "Proposed model")
 
 ## CIFAR10
 Comparison between generated images by vanilla GAN generator and 1500 steps of MCMC  applied to generator output with step size 2.
@@ -42,4 +40,4 @@ For vanilla GAN model we dealed with zero discriminant loss problem -- for every
 ![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN/step21000.jpg "Vanilla GAN")
 
 For proposed generative model we see movements in learned modes with different patterns in generated images.
-![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN_EBM/step29000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN_EBM/step12000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN_EBM/step20000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN_EBM/step30000.jpg "Proposed model") 
+![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN_EBM/step29000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN_EBM/step12000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN_EBM/step20000.jpg "Proposed model")
