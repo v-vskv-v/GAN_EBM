@@ -7,7 +7,7 @@ This repository contains code for Final Project of ML Course in Skoltech with ex
 - `Report_GAN_EBM.pdf`: project report;
 - `Project_GAN_EBM.ipynb`: notebook with code and experiment results;
 
-To run this code and reproduce results you need install these packages and libraries, you should use `python3.8`. Please, set up a virtual environment and use `pip install -r requirements.txt`.
+To run this code and reproduce results you need install these packages and libraries, you should use `python3.8`. Please, set up a virtual environment and run `pip install -r requirements.txt`.
 
 Below you can find the best results in experiments.
 
