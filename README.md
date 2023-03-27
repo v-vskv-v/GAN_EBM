@@ -1,4 +1,4 @@
-# Improving GAN inference with EBM model
+# Improving GAN Inference with EBM Model
 
 This repository contains code for Final Project of ML Course in Skoltech with experiment results:
 - `moons`/`roll`: experiment plots for GAN and proposed model;
