@@ -31,7 +31,7 @@ Images by GAN generator.
 
 ![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step38000.jpg "Vanilla GAN") ![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step35000.jpg "Vanilla GAN") ![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step30000.jpg "Vanilla GAN") ![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step36000.jpg "Vanilla GAN")
 
-Images by proposed model generative model.
+Images by proposed generative model.
 
 ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step11000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step10000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step8000.jpg "Proposed model") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step12000.jpg "Proposed model")  
 
