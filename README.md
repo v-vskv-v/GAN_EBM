@@ -14,5 +14,20 @@ Below you can find the best results in experiments.
 An experiment with vanilla GAN, comparison between true distribution and generator distribution.
 ![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/moons/GAN.png)
 
-An experiment with proposed model, comparison between true distribution and 60 steps of MCMC applied to generator output with step size 3.
-![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/moons/GAN_EBM.png)
+An experiment with proposed model, comparison between true distribution and 1500 steps of MCMC applied to generator output with step size 2.
+![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/moons/GAN_EBM.png)
+
+## Swiss roll
+An experiment with vanilla GAN, comparison between true distribution and generator distribution.
+![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/roll/GAN.png)
+
+An experiment with proposed model, comparison between true distribution and 1500 steps of MCMC applied to generator output with step size 3.
+![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/roll/GAN_EBM.png)
+
+## MNIST
+Comparison between generated images by vanilla GAN generator and 500 steps of MCMC  applied to generator output with step size 2.
+![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN/step38000.jpg "Vanilla GAN") ![GAN_EBM](https://github.com/v-vskv-v/GAN_EBM/blob/master/mnist/GAN_EBM/step11000.jpg "Proposed model")
+
+## CIFAR10
+Comparison between generated images by vanilla GAN generator and 1500 steps of MCMC  applied to generator output with step size 2.
+![GAN](https://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN/step21000.jpg "Vanilla GAN") ![GAN_EBM](hhttps://github.com/v-vskv-v/GAN_EBM/blob/master/cifar10/GAN_EBM/step29000.jpg "Proposed model")
